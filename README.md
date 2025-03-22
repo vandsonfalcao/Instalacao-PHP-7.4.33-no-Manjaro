@@ -1,5 +1,6 @@
 # Instalação PHP 7.4.33 no Manjaro
 
+> _Testado em 22 de Março de 2025_
 
 ## Instalar AUR do php74
 
